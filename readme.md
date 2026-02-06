@@ -1,110 +1,133 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+### 🧩 VISÃO DO DIA A DIA
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+Como é o trabalho de um(a) **Analista de QA e Automação**:
 
-</p>
+* **Refinamento de Requisitos:** Analisar histórias de usuário para identificar cenários de teste antes mesmo do código ser escrito.
+* **Criação de Planos de Teste:** Definir a estratégia de como um novo recurso será validado (testes manuais vs. automatizados).
+* **Escrita de Scripts de Automação:** Desenvolver código (em Python) para que o sistema se teste sozinho repetidamente.
+* **Report de Bugs:** Documentar falhas de forma técnica e clara para os desenvolvedores, ajudando na reprodução do erro.
+* **Homologação e Agilidade:** Participar de ritos ágeis (Daily, Review) garantindo que a entrega atenda aos critérios de aceitação.
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+---
 
-<br/>
-<br/>
+### 🧠 MAPA DE SKILLS
 
-## 💻 Sobre o Projeto
+**CORE SKILLS (essenciais):**
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+* **Mentalidade de Testador:** Capacidade de pensar em cenários de exceção e "quebrar" a lógica do produto.
+* **Lógica de Programação (Python):** Domínio de estruturas de dados e funções para automação.
+* **Metodologias Ágeis:** Entendimento profundo de Scrum/Kanban (que você já domina).
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+**NICE-TO-HAVE (complementares):**
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+* **SQL Básico:** Para validar se os dados foram gravados corretamente no banco.
+* **Noções de CI/CD:** Entender como os testes rodam automaticamente em pipelines de deploy.
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+**FERRAMENTAS E TECNOLOGIAS:**
 
-- _Exemplo_:
+* **Frameworks de Teste:** Pytest ou Selenium com Python.
+* **Gestão de Testes:** Jira ou Azure DevOps.
+* **Versionamento:** Git e GitHub.
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+---
 
-- [Outros pré-requisitos, se aplicável]
+### 📅 ROADMAP DE 90 DIAS
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+**ADAPTADO PARA: 5 horas/semana** (Foco em qualidade e consistência)
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+#### MÊS 1 - FUNDAMENTOS E TEORIA DE TESTE
 
-- [Lista das habilidades principais a serem desenvolvidas]
+*Objetivo: Converter sua experiência de negócios em visão técnica de qualidade.*
 
-  - [Subhabilidades relacionadas, se aplicável]
+**SEMANA 1-2:**
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+* Estudar os Tipos de Teste (Unitário, Integrado, E2E, Regressão).
+* Aprender a escrever Casos de Teste e BDD (Behavior Driven Development) usando Gherkin.
 
-## 🎯 Objetivos e Resultados Esperados
+**SEMANA 3-4:**
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+* Revisão de Python focada em QA: Manipulação de listas, dicionários e bibliotecas de requisições.
+* Instalação do ambiente: VS Code, Git e Python.
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+#### MÊS 2 - PRÁTICA COM AUTOMAÇÃO
 
-<!--START_SECTION:footer-->
+*Objetivo: Começar a "sujar as mãos" com ferramentas de automação.*
 
-<br />
-<br />
+**SEMANA 5-6:**
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+* Introdução ao Selenium WebDriver com Python: Localizadores (XPath, CSS Selectors) e interação com elementos web.
+* Primeiros scripts: Abrir navegador, preencher formulário e validar mensagem de sucesso.
+
+**SEMANA 7-8:**
+
+* Estudar o framework **Pytest**: Como organizar suítes de teste e gerar relatórios de execução.
+* Introdução a testes de API com a biblioteca `Requests`.
+
+#### MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+*Objetivo: Consolidar o aprendizado e preparar a vitrine para o mercado.*
+
+**SEMANA 9-10:**
+
+* Desenvolvimento do Projeto de Portfólio (Automação de um e-commerce fictício).
+* Documentação do projeto no GitHub (README técnico).
+
+**SEMANA 11-12:**
+
+* Revisão de currículo focada em Transição de Carreira (destacando Análise de Requisitos + QA).
+* Simulação de entrevistas técnicas.
+
+---
+
+### 🚀 PROJETO DE PORTFÓLIO
+
+**PROJETO:** QA Automation Showcase - E-commerce
+
+**O QUE FAZER:**
+Criar uma suíte de testes automatizados para um site de testes (ex: SauceDemo) que valide o fluxo principal de compra, desde o login até a finalização do pedido.
+
+**ENTREGÁVEIS:**
+
+* Repositório no GitHub com o código da automação em Python/Pytest.
+* Relatório de execução de testes (HTML ou logs).
+* Documentação Gherkin (BDD) descrevendo os cenários testados.
+
+**CRITÉRIOS DE ACEITAÇÃO:**
+
+* O script deve rodar sem erros ("Green").
+* Deve testar pelo menos um cenário de erro (ex: login inválido).
+* O código deve estar organizado seguindo boas práticas (ex: Page Object Model).
+
+**DICA:** Use sua experiência em processos para descrever por que aqueles cenários são críticos para o negócio no README do projeto.
+
+---
+
+### 💬 ROTEIRO DE ENTREVISTAS
+
+**PERGUNTA 1:** Como sua experiência em Análise de Negócios ajuda você como QA?
+**COMO RESPONDER:** "Minha bagagem me permite entender profundamente o valor de negócio de cada funcionalidade, o que me ajuda a priorizar os testes mais críticos e antecipar falhas de lógica antes mesmo da codificação."
+
+**PERGUNTA 2:** O que é BDD e como você o utiliza?
+**COMO RESPONDER:** "É o Desenvolvimento Orientado a Comportamento. Uso a sintaxe 'Dado, Quando, Então' para criar uma linguagem comum entre negócios e tech, garantindo que o teste reflita exatamente o que o usuário espera."
+
+**PERGUNTA 3:** Como você decide o que deve ser automatizado e o que deve ser manual?
+**COMO RESPONDER:** "Automatizo processos repetitivos, críticos para o negócio e testes de regressão. Testes exploratórios ou de usabilidade inicial costumam ser manuais por exigirem percepção humana."
+
+**PERGUNTA 4:** O que você faz quando encontra um bug intermitente?
+**COMO RESPONDER:** "Investigo logs, tento isolar as variáveis (navegador, dados de entrada) e documento o passo a passo exato do que ocorreu, sinalizando ao time que a falha não é constante."
+
+**PERGUNTA 5:** Por que escolheu Python para automação?
+**COMO RESPONDER:** "Pela sua sintaxe limpa, vasta comunidade e excelente suporte a frameworks de teste como Pytest e Selenium, o que acelera o desenvolvimento de scripts robustos."
+
+---
+
+### 🎓 TRILHA DIO RECOMENDADA
+
+**TRILHA:** **Potência Tech Angular - QA (ou similar focada em Testes/Python)**
+
+**POR QUE ESSA TRILHA:**
+Ela oferece a base de fundamentos de testes e introdução a ferramentas de mercado que complementarão sua transição, focando em garantir a qualidade do software em ciclos ágeis.
+
+Lembre-se: o mais importante é a constância, não a velocidade. Com 5 horas semanais, o segredo é manter o foco na execução técnica do Python aplicada aos testes.
+
+Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
